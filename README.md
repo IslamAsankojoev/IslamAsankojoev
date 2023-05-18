@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IslamAsankojoev
-- 👀 I’m interested in Dota 2 - CS-GO, JavaScript, React, Python3
-- 🌱 I’m currently learning React
+- 👀 I’m interested Coding 
+- 🌱 I’m currently Coding
 - 💞️ I’m looking to collaborate on any
 - 📫 How to reach me Telegram @uclami
 
